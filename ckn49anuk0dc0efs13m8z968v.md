@@ -1,6 +1,6 @@
 ## How I learned to code
 
-### Being a Nursing NewGrad
+### From Nursing to Software Engineering
 
 Let me take you back to the year 2014. There was no [international pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic), but [an economic crisis](https://en.wikipedia.org/wiki/2008%E2%80%932014_Spanish_financial_crisis) hit my home country, Spain, quite hard. I had just finished my Nursing Degree and, looking for a job, I decided to move to the UK, which was  [a quite common move for Spanish nurses](https://www.sciencedirect.com/science/article/pii/S0020748916301304#:~:text=From%20the%20data%20available%20to,Spanish%2Dtrained%20nurses%20working%20abroad.&text=During%20this%20period%2C%205760%20Spanish,Italy%20and%20250%20to%20Norway.) back then.
 
