@@ -39,8 +39,8 @@ But the truth is that what caught me, in the end, was the book promise of doing 
 %[https://giphy.com/gifs/90s-pokemon-nostalgia-G7rSYPWEeTjY4]
 
 
-To be honest with you, I didn't finish that game... well, I haven't really "finished" [any of my games](https://github.com/W01fw00d) ever yet ^^U. And I'm not going to make up an excuse for that, not really ;).
+To be honest with you, I didn't finish that game... well, I haven't really "finished" [any of my games](https://github.com/W01fw00d) ever yet :sweat_smile: . And I'm not going to make up an excuse for that, not really :wink: .
 
-Anyway, after I finished the book, I went back to Spain and enrolled in a 2-year course to get a  [Technical Degree in "Backend" Software Development](https://www.linkedin.com/in/%F0%9F%96%B1%EF%B8%8Fgabriel-romay-machado-40050a114/?locale=en_US).
+Anyway, after I finished the book, I went back to Spain and enrolled in a 2-year course to get a [Technical Degree in "Backend" Software Development](https://www.linkedin.com/in/%F0%9F%96%B1%EF%B8%8Fgabriel-romay-machado-40050a114/?locale=en_US).
 
 I never got back to nursing, although you don't really ever quit being your family's nurse... the same thing that happens when you learn to code and suddenly everybody wants you to fix their printers!
