@@ -45,4 +45,4 @@ To be honest with you, I didn't finish that game... well, I haven't really "fini
 
 Anyway, after I finished the book, I went back to Spain and enrolled in a 2-year course to get a [Technical Degree in "Backend" Software Development](https://www.linkedin.com/in/%F0%9F%96%B1%EF%B8%8Fgabriel-romay-machado-40050a114/?locale=en_US) 📜.
 
-I never got back to nursing, although you don't really ever quit being your family's nurse... the same thing that happens when you learn to code and suddenly everybody wants you to fix their printers 🤦‍♂️!
+I never got back to nursing, although you don't really ever quit being your family's nurse... the same thing that happens when you learn to code and suddenly everybody wants you to fix their printers 😅!
