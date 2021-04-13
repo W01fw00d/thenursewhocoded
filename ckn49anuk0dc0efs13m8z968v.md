@@ -15,7 +15,7 @@ Being able to be independent, improving my English, meeting new people... it was
 
 ### What is coding about?
 
-I had always seen programming as a mysterious ability that only very clever people with a good grasp of mathematics and electronics could really comprehend 🧙‍♂️. I didn't see myself, who had "specialized" in the biology/chemistry side of science, as a potential developer 🙅‍♂️.
+I had always seen programming as a mysterious ability that only very clever people with a good grasp of mathematics and electronics could really comprehend 😎. I didn't see myself, who had "specialized" in the biology/chemistry side of science, as a potential developer 😢.
 
 
 %[https://giphy.com/gifs/coding-programming-programmer-QX6ruFElzFdeIfblrg]
@@ -31,7 +31,7 @@ But I wanted to try it out, at least to confirm that it wasn't for me. So I mana
 %[https://giphy.com/gifs/coxQHKASG60HrHtvkt]
 
 
-[Another learning](https://learnpythonthehardway.org/book/advice.html) that I still remember from Zed (aside from the useful coding exercises and explanations) is that coding is a skill like any other. It doesn't have true meaning by itself but only combined with other skills or knowledge. Even for a nurse 👩‍⚕️ like me, who knows, maybe someday I would find out how to combine my two specializations 🔗!
+[Another learning](https://learnpythonthehardway.org/book/advice.html) that I still remember from Zed (aside from the useful coding exercises and explanations) is that coding is a skill like any other. It doesn't have true meaning by itself but only combined with other skills or knowledge. Even for a nurse 💉 like me, who knows, maybe someday I would find out how to combine my two specializations 🔗!
 
 ### My way into code
 
@@ -45,4 +45,4 @@ To be honest with you, I didn't finish that game... well, I haven't really "fini
 
 Anyway, after I finished the book, I went back to Spain and enrolled in a 2-year course to get a [Technical Degree in "Backend" Software Development](https://www.linkedin.com/in/%F0%9F%96%B1%EF%B8%8Fgabriel-romay-machado-40050a114/?locale=en_US) 📜.
 
-I never got back to nursing, although you don't really ever quit being your family's nurse... the same thing that happens when you learn to code and suddenly everybody wants you to fix their printers 🤦🏽‍♀️!
+I never got back to nursing, although you don't really ever quit being your family's nurse... the same thing that happens when you learn to code and suddenly everybody wants you to fix their printers 🤦‍♂️!
