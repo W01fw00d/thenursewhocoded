@@ -1,5 +1,7 @@
 ## What you need to know about interviews
 
+* [Audio version](https://anchor.fm/gabriel-romaymachado/episodes/What-you-need-to-know-about-interviews-ev11sk)
+
 ### Talking about myself
 
 Last week it was my anniversary of becoming a Professional Web Developer. I have been doing this for 6 years now 👴🏾. That's [a lot of time in developer-years](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure), so I have been in many job interviews already.
