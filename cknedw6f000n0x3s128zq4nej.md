@@ -2,6 +2,8 @@
 
 * Post header illustration by [@gelabert.art](https://www.instagram.com/gelabert.art) 🙇🏻‍♂️
 
+* [Podcast version](https://anchor.fm/gabriel-romaymachado/episodes/Turning-text-into-voice-Freedom-for-your-content-euupq2)
+
 ### Some context
 
 I used to manage and write in a collaborative narrative writing group ✒ (mostly in Spanish): I even did a [5 min talk about it](https://www.ivoox.com/broken-telephone-applied-to-writing-talk-english-audios-mp3_rf_67513289_1.html)! At some point, we started recording in audio 🎙 whenever we met to read together a finalized book. Then, I decided to do some editing and create a [podcast using those audios](https://www.ivoox.com/podcast-nova-linia-cadaver-exquisito_sq_f1667423_1.html).
