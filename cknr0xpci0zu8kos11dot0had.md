@@ -1,6 +1,6 @@
 ## How to transform your blog into a podcast for free
 
-* [Audio version of this post](https://anchor.fm/gabriel-romaymachado)
+* [Audio version of this post](https://anchor.fm/gabriel-romaymachado/episodes/How-to-transform-your-blog-into-a-podcast-for-free-evavgb)
 
 ### Some Context
 
