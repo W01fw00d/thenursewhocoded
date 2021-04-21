@@ -51,4 +51,4 @@ And of course, [this repository is available on github](https://github.com/W01fw
 
 And the best thing is that this project can be easily adapted to work with different blogging and podcast platforms 😏!
 
-So yeah, its future looks just bright ✨ (at least till the incredible Hasnode developers rollout the audiblog feature to all users… or till I become Ambassador and get one of those cool t-shirts 👕).
+So yeah, its future looks just bright ✨ (at least till the incredible Hashnode developers rollout the audiblog feature to all users… or till I become Ambassador and get one of those cool t-shirts 👕).
