@@ -1,6 +1,6 @@
 ## Your own components library with Storybook
 
-* 🖼 Cover image by <kbd>[Marta XimenisCampins](https://www.domestika.org/es/projects/686589-chemistry-ui)</kbd>
+🖼 Cover image by <kbd>[Marta XimenisCampins](https://www.domestika.org/es/projects/686589-chemistry-ui)</kbd>
 
 ⌨️ <kbd>[Check the code in GitHub](https://github.com/W01fw00d/chemistry-ui)</kbd>
 
