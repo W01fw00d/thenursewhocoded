@@ -1,6 +1,7 @@
 ## How I learned to code
 
-* [Podcast version](https://anchor.fm/gabriel-romaymachado/episodes/How-I-learned-to-code-euqd4j)
+%[https://anchor.fm/gabriel-romaymachado/episodes/How-I-learned-to-code-euqd4j]
+
 
 ### From Nursing to Software Engineering
 
