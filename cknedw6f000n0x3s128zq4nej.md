@@ -2,6 +2,8 @@
 
 %[https://anchor.fm/gabriel-romaymachado/episodes/Turning-text-into-voice-Freedom-for-your-content-euupq2]
 
+%[https://github.com/W01fw00d/text-to-voice]
+
 * Post header illustration by [@gelabert.art](https://www.instagram.com/gelabert.art) 🙇🏻‍♂️
 
 ### Some context
