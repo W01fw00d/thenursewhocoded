@@ -1,8 +1,9 @@
 ## Your own components library with Storybook
 
-🖼 Cover image by <kbd>[Marta XimenisCampins](https://www.domestika.org/es/projects/686589-chemistry-ui)</kbd>
+%[https://github.com/W01fw00d/chemistry-ui]
 
-⌨️ <kbd>[Check the code in GitHub](https://github.com/W01fw00d/chemistry-ui)</kbd>
+
+🖼 Cover image by <kbd>[Marta XimenisCampins](https://www.domestika.org/es/projects/686589-chemistry-ui)</kbd>
 
 🖥 <kbd>[Check a demo of the catalogue](https://chemistry-ui.netlify.app/)</kbd>
 
