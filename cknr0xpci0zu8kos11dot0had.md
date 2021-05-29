@@ -2,6 +2,8 @@
 
 %[https://anchor.fm/gabriel-romaymachado/episodes/How-to-transform-your-blog-into-a-podcast-for-free-evavgb]
 
+%[https://github.com/W01fw00d/hashnode-to-anchorfm]
+
 ### Some Context
 
 I recently developed [a solution to turn old books into a podcast](https://thenursewhocoded.hashnode.dev/turning-text-into-voice-freedom-for-your-content) 📚. I had the idea of adapting this for transforming my text blog into an audioblog 🦻. Because I don’t have a decent microphone in order to use my own voice 🙊. And because we live in the future 🌟.
