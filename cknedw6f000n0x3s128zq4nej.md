@@ -1,8 +1,8 @@
 ## Turning text into voice: Freedom for your content!
 
-* Post header illustration by [@gelabert.art](https://www.instagram.com/gelabert.art) 🙇🏻‍♂️
+%[https://anchor.fm/gabriel-romaymachado/episodes/Turning-text-into-voice-Freedom-for-your-content-euupq2]
 
-* [Podcast version](https://anchor.fm/gabriel-romaymachado/episodes/Turning-text-into-voice-Freedom-for-your-content-euupq2)
+* Post header illustration by [@gelabert.art](https://www.instagram.com/gelabert.art) 🙇🏻‍♂️
 
 ### Some context
 
