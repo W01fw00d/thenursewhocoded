@@ -1,6 +1,6 @@
 ## What you need to know about interviews
 
-* [Audio version](https://anchor.fm/gabriel-romaymachado/episodes/What-you-need-to-know-about-interviews-ev11sk)
+%[https://anchor.fm/gabriel-romaymachado/episodes/What-you-need-to-know-about-interviews-ev11sk]
 
 ### Talking about myself
 
