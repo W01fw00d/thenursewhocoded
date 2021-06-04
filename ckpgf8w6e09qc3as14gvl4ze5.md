@@ -13,7 +13,7 @@ Next, I’m going to present the benefits and issues of living in Tokyo in contr
 
 - 💰 Good salary. You can earn a lot working as a software engineer 👩🏿‍💻. You won't earn so much as if you were working in the USA for example, but the salaries are quite better than in Europe for example
 
-- 📈 High demand for Software Engineers. I believe this is more or less true for any country nowadays, but there are a lot of growing companies 🏬 in Japan (especially in Tokyo), and there are a lot of jobs that you can perform without the need of speaking any Japanese ⛩
+- 📈 High demand for Software Engineers / people with a Computer Science Degree. I believe this is more or less true for any country nowadays, but there are a lot of growing companies 🏬 in Japan (especially in Tokyo), and there are a lot of jobs that you can perform without the need of speaking any Japanese ⛩
 
 - 🔐 Security. You can leave your goods unattended when you go to the toilet in a restaurant for example, or even in the street (people usually leave their bikes 🚲 unchained with bags and everything)
 
@@ -37,7 +37,7 @@ Next, I’m going to present the benefits and issues of living in Tokyo in contr
 ### 💔 Cons
 
 
-- 📄 You need an engineering degree to even get a visa. The Japanese government is not really interested in workers that don't have high education 👩🏽‍🎓. There are ways to legally bypass this, of course, because Japanese companies desperately need tech workers even if they are self-taught 💪🏾; but it's gonna be harder for you to find a good job 💼 and find a company that wants to help you get a visa if you don't have the correct degree for the job
+- 📄 You need a software engineering / Computer Science degree to even get a visa. The Japanese government is not really interested in workers that don't have high education 👩🏽‍🎓. There are ways to legally bypass this, of course, because Japanese companies desperately need tech workers even if they are self-taught 💪🏾; but it's gonna be harder for you to find a good job 💼 and find a company that wants to help you get a visa if you don't have the correct degree for the job
 
 - 👨🏻‍💻 It's almost impossible to work as an international freelancer from Japan. I tried to and even getting professional help for managing my taxes in japanese was not possible, local interpreter agencies only worked with big companies 🏢
 
